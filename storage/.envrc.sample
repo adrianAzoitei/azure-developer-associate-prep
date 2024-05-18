@@ -1,0 +1,2 @@
+export AZURE_SUBSCRIPTION_ID="changeme"
+export AZURE_CONNECTION_STRING="changeme"
